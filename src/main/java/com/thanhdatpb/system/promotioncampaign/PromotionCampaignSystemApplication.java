@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PromotionCampaignApplication {
+public class PromotionCampaignSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PromotionCampaignApplication.class, args);
+		SpringApplication.run(PromotionCampaignSystemApplication.class, args);
 	}
 }
